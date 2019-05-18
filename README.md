@@ -4,6 +4,7 @@
 | No. | Questions |
 |---- | ---------
 |1 | [<a href="https://www.youtube.com/watch?v=Tux1nhBPl_w"> Observable,observer</a>](#https://www.youtube.com/watch?v=Tux1nhBPl_w)|
+|2 | [<a href="https://www.youtube.com/watch?v=PhggNGsSQyg"> RxJS Basics</a>](#https://www.youtube.com/watch?v=Tux1nhBPl_w)|
 
 ### Table of Contents
 
