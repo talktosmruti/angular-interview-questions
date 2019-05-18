@@ -3,7 +3,7 @@
 ## Videos :
 | No. | Questions |
 |---- | ---------
-|1 | [Observer, observable, subscription](#https://www.youtube.com/watch?v=Tux1nhBPl_w)|
+|1 | [https://www.youtube.com/watch?v=Tux1nhBPl_w](#https://www.youtube.com/watch?v=Tux1nhBPl_w)|
 
 ### Table of Contents
 
