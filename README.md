@@ -1,6 +1,9 @@
 # Angular Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+## Videos :
+| No. | Questions |
+|---- | ---------
+|1 | [Observer, observable, subscription](#https://www.youtube.com/watch?v=Tux1nhBPl_w)|
 
 ### Table of Contents
 
